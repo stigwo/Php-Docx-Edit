@@ -12,4 +12,5 @@ $replacements in  original non.docx is
 'DATESIGN' 
 'MANUFCONTACT' 
 'BUYERCONTACT'
+![image](https://github.com/stigwo/Php-Docx-Edit/assets/88421217/e5db24e8-dac7-4c13-b602-64ab65edb47f)
 
